@@ -1,10 +1,10 @@
 backend:
   name: github
-  repo: DAQIOT/daq-iot-website
+  repo: lsgage1/lsgage-website
   branch: main
-  base_url: https://www.daq-iot.com
+  base_url: https://lsgage-website.pages.dev
   auth_endpoint: /oauth/auth
-  site_id: daq-iot-website
+  site_id: lsgage-website
 locale: zh_Hans
 media_folder: /public/images
 public_folder: /images
