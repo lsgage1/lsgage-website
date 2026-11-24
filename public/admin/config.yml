@@ -2,7 +2,7 @@ backend:
   name: github
   repo: lsgage1/lsgage-website
   branch: main
-  base_url: https://lsgage-website.pages.dev
+  base_url: https://www.lsgage.com
   auth_endpoint: /oauth/auth
   site_id: lsgage-website
 locale: zh_Hans
