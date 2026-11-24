@@ -15,4 +15,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://lsgage-website.pages.dev/sitemap-index.xml
+Sitemap: https://www.lsgage.com/sitemap-index.xml
